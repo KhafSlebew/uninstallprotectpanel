@@ -95,6 +95,7 @@ class ApiController extends Controller
         return response('', 204);
     }
 }
+
 EOF
 
 chmod 644 "$REMOTE_PATH"

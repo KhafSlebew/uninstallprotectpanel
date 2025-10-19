@@ -70,5 +70,4 @@ EOF
 chmod 644 "$REMOTE_PATH"
 
 echo "✅ Menghapus Proteksi Anti Modifikasi Detail Server berhasil di hapus!"
-echo "📂 Lokasi file: $REMOTE_PATH"
 echo "🔒 Berhasil 100%."

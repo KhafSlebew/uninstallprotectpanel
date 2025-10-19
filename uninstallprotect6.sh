@@ -74,5 +74,4 @@ EOF
 chmod 644 "$REMOTE_PATH"
 
 echo "✅ Menghapus Proteksi Anti Akses Settings berhasil di hapus!"
-echo "📂 Lokasi file: $REMOTE_PATH"
 echo "🔒 Berhasil 100%."
